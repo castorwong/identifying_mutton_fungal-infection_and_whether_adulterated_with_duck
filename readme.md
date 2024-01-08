@@ -45,6 +45,10 @@ filelock
 3. Baidu Paddle AI Studio , Online Predict Result
  ![UI](readme_image/UI_Preview2.png)
 
+>notice: the token has expired, so the online prediction doesn't work now, the HTTP Reqest Help Document can be found at: https://cloud.baidu.com/doc/EASYDL/s/Sk38n3baq
+>With Baidu EasyDL , the super-complex&super-accuracy prediction model is trained online. The target image is uploaded to the cloud and EasyDL will return a json file named result.json. Just split the json file to exact what you want
+
+
 ### DataSet:
 
 all the pics are shot by a Canon EOS 600D ,  auto exposure and auto white balance
