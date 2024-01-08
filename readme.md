@@ -31,16 +31,14 @@ filelock
 ### Introduction
 
 1. MainWindow
-
-<img src="./readme_image/MainWindow_WithoutPic.png" style="zoom:33%;" />
+ ![MainWindow](readme_image/MainWindow_WithoutPic.png)
 
 2. MainWindow + MobileNetV3 Result
 
-<img src="./readme_image/MainWindow_WithPic.png" style="zoom:33%;" />
+ ![MainWindow2](readme_image/MainWindow_WithPic.png)
 
 3. Baidu Paddle AI Studio , Online Predict Result
-
-<img src="./readme_image/UI_Preview2.png" style="zoom:50%;" />
+ ![UI](readme_image/UI_Preview2.png)
 
 ### DataSet:
 
@@ -49,7 +47,7 @@ all the pics are shot by a Canon EOS 600D ,  auto exposure and auto white balanc
 DataSet：https://pan.baidu.com/s/1UjLCDVn1Yed_4pqet-d26g?pwd=data 
 
 
-<img src="./readme_image/example_image.JPG" style="zoom:15%;" />
+ ![example_pic](readme_image/example_image.JPG)
 
 the white balance is not accurate by the cam, but we put a white board in the pic as a pure white reference to calculate the white balance afterwards.
 
