@@ -10,13 +10,16 @@ So I create  this repository , try to do the same identification using only the 
 
 ### Requirement:
 
-python=3.7 
+
+python=3.7 (Anaconda is recommended)
 
 PaddlePadddle 2.4.2(must be 2.4.x ,pd.dataloader()has been refactored by Baidu since 2.5.0)
 
 > [Install on Windows via PIP-Document-PaddlePaddle Deep Learning Platform](https://www.paddlepaddle.org.cn/documentation/docs/en/2.4/install/pip/windows-pip_en.html)
 
+
 pip install the packages below:
+
 paddlex
 
 PyQt5
@@ -26,6 +29,7 @@ scikit-image
 jsonpath
 
 filelock
+
 (Just pip install the packages above, nothing else needed)
 
 
