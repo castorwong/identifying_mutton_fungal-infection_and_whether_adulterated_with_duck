@@ -1,4 +1,4 @@
-# identifying_mutton_fungal-infection_and_whether_adulterated_with_duck
+# identifying mutton fungal-infection and whether its adulterated with duck
 
 > Notice: This Project is a subproject of my senior's  MSE degree's Paper ([palenn (Zhaochangtong) (github.com)](https://github.com/palenn)), it can run independently
 
