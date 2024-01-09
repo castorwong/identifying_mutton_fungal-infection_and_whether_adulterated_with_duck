@@ -46,8 +46,10 @@ filelock
  ![UI](readme_image/UI_Preview2.png)
 
 >notice: the token has expired, so the online prediction doesn't work now, the HTTP Reqest Help Document can be found at: https://cloud.baidu.com/doc/EASYDL/s/Sk38n3baq
->With Baidu EasyDL , the super-complex&super-accuracy prediction model is trained online. The target image is uploaded to the cloud and EasyDL will return a json file named result.json. Just split the json file to exact what you want
+>With Baidu EasyDL , the prediction model is trained online. The test image is uploaded to the cloud and EasyDL will return a json file. Just split the json file to exact what you want
 
+
+>FYI: the CPU solution on the right side (“4.2 CPU方案”): SIFT (feature) + Bow(bag of words) + SVM(supporting vector machine) & HOG(Histogram of Oriented Gradient) + Kernel SVM  have not been implement
 
 ### DataSet:
 
