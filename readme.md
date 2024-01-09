@@ -1,6 +1,6 @@
 # identifying mutton fungal-infection and whether its adulterated with duck
 
-> Notice: This Project is a subproject of my senior's  MSE degree's Paper ([palenn (Zhaochangtong) (github.com)](https://github.com/palenn)), it can run independently
+> Notice: This Project is a subproject of my senior's  MSE degree's Paper ([palenn (Zhaochangtong) (github.com)](https://github.com/palenn)). Salute!
 
 My senior's MSE degree paper's content is identifing whether the mutton meatball is fungal-infected and whether the meatball is adulterated with duck by meanings of the fusion of E-nose and NIR(Near Infrared) features.
 
